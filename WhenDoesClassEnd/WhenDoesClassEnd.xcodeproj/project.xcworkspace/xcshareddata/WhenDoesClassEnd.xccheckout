@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E1795B6-6B2D-455B-8819-193130739A42</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WhenDoesClassEnd</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CB844434-C74C-4C41-A60E-0D6592C43550</key>
+		<string>https://github.com/AndrewSB/WhenDoesClassEnd.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WhenDoesClassEnd/WhenDoesClassEnd.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CB844434-C74C-4C41-A60E-0D6592C43550</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AndrewSB/WhenDoesClassEnd.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CB844434-C74C-4C41-A60E-0D6592C43550</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB844434-C74C-4C41-A60E-0D6592C43550</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WhenDoesClassEnd</string>
+		</dict>
+	</array>
+</dict>
+</plist>
