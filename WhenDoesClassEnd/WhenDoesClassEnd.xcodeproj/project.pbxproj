@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		461998E918F6A2160080C0FF /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 461998E818F6A2160080C0FF /* MainViewController.m */; };
 		46FFB333188B1F940093E025 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46FFB332188B1F940093E025 /* Foundation.framework */; };
 		46FFB335188B1F940093E025 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46FFB334188B1F940093E025 /* CoreGraphics.framework */; };
 		46FFB337188B1F940093E025 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46FFB336188B1F940093E025 /* UIKit.framework */; };
@@ -33,6 +34,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		461998E718F6A2160080C0FF /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		461998E818F6A2160080C0FF /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		46FFB32F188B1F940093E025 /* WhenDoesClassEnd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhenDoesClassEnd.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		46FFB332188B1F940093E025 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		46FFB334188B1F940093E025 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -112,6 +115,8 @@
 			children = (
 				46FFB341188B1F940093E025 /* AppDelegate.h */,
 				46FFB342188B1F940093E025 /* AppDelegate.m */,
+				461998E718F6A2160080C0FF /* MainViewController.h */,
+				461998E818F6A2160080C0FF /* MainViewController.m */,
 				46FFB344188B1F940093E025 /* Images.xcassets */,
 				46FFB339188B1F940093E025 /* Supporting Files */,
 			);
@@ -245,6 +250,7 @@
 			files = (
 				46FFB343188B1F940093E025 /* AppDelegate.m in Sources */,
 				46FFB33F188B1F940093E025 /* main.m in Sources */,
+				461998E918F6A2160080C0FF /* MainViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -447,6 +453,7 @@
 				46FFB35D188B1F940093E025 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		46FFB35E188B1F940093E025 /* Build configuration list for PBXNativeTarget "WhenDoesClassEndTests" */ = {
 			isa = XCConfigurationList;
@@ -455,6 +462,7 @@
 				46FFB360188B1F940093E025 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
